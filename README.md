@@ -91,7 +91,7 @@ Performed using Power Query:
 ## 🚀 How to Use
 
 1. Clone this repo  
-   `git clone https://github.com/yourusername/ITC-Financial-Dashboard.git`
+   `git clone (https://github.com/Vishalkompalli/BI-Projects.git)`
 
 2. Open Power BI Desktop  
    `File > Open` and select `ITC_Report.pbix`
