@@ -114,7 +114,7 @@ Performed using Power Query:
 
 ## 📬 Contact
 
-Created by [Vishal](vishal.kompalli@gmail.com) — Embedded Systems Engineer transitioning into Data Analytics.
+Created by Vishal (vishal.kompalli@gmail.com) - Embedded Systems Engineer transitioning into Data Analytics.
 
 If this helped or you're hiring, feel free to reach out!
 
